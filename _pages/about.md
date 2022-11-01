@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor of Finance at Boston College. My research interests are in asset pricing and market microstructure.
 
+[Curriculum Vitae](http://academicpages.github.io/files/Bogousslavsky_CV.pdf)
+
 ## Working Papers
 
 ## Publications
