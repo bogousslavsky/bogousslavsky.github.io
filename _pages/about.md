@@ -2,6 +2,7 @@
 permalink: /
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
+title: "Vincent Bogousslavsky, Assistant Professor of Finance"
 author_profile: true
 redirect_from:
   - /about/
