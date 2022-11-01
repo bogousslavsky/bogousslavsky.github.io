@@ -20,19 +20,23 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with <a target="_blank" href="https://sites.google.com/a/bc.edu/vyacheslav-fos/home" style="color:#000000;">Vyacheslav Fos</a>  and <a target="_blank" href="http://www.dmurav.com" style="color:#000000;">Dmitriy Muravyev</a>
 	<li style="list-style-type:none"><i>Journal of Finance</i>, Revise and Resubmit</li> 	
 	<ul style="list-style-type:circle">
-	<li>This paper shows that learning from data on informed trades can generate an effective measure of informed trading</li>
+	<li>A data-driven measure of informed trading complements existing theoretical measures and provides new insights about informed trading</li>
 	</ul>  
 </ul>
 
 <ul class="pad" style="list-style-type:none">
 <li><a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 9/2022]</li>  
   with <a target="_blank" href="https://sites.google.com/site/barardehi/" style="color:#000000;">Yashar Barardehi</a> and <a target="_blank" href="http://www.dmurav.com" style="color:#000000;">Dmitriy Muravyev</a>
+   <ul style="list-style-type:circle">
+  <li>Evidence from past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
+  </ul>
 </ul>
 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a>  [updated 10/2022]</li>  
   with <a target="_blank" href="http://www.dmurav.com" style="color:#000000;">Dmitriy Muravyev</a>
          <ul style="list-style-type:circle">
+        <li>We study closing volumes and prices under the new regime of record-volume at the close</li>
         <li>Media coverage: <a target="_blank" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
         </ul>
 </ul>
@@ -54,7 +58,6 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   <li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li>
 	     <ul style="list-style-type:circle">
 		    <li>Motivated by a simple inventory model, high-frequency order imbalance volatility helps explain the dynamics of liquidity and is priced in the cross-section of stock returns</li>
-  			<li><a target="_blank" href="HFOIV_data.zip" style="color:#000000;">High-frequency order imbalance volatility data (2002-2017)</a> </li>  
         </ul>  
 </ul>
 
