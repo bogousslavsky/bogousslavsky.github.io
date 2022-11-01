@@ -9,6 +9,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2FEM1XM0CN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2FEM1XM0CN');
+</script>
+
 I am an Assistant Professor of Finance at Boston College. My research interests are in asset pricing and market microstructure.
 
 [Curriculum Vitae](http://bogousslavsky.github.io/files/Bogousslavsky_CV.pdf)
