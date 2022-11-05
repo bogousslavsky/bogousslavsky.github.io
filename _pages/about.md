@@ -25,9 +25,9 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 ## Working Papers
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a> [updated 1/2022]</li>  
+  <li><a target="_blank"  style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a> [updated 1/2022]</li>  
   <!--<ul style="list-style-type:none;padding: 0;margin: 0;" >-->
-  with <a target="_blank" href="https://sites.google.com/a/bc.edu/vyacheslav-fos/home" style="color:#000000;">Vyacheslav Fos</a>  and <a target="_blank" href="http://www.dmurav.com" style="color:#000000;">Dmitriy Muravyev</a>
+  with <a target="_blank" style="text-decoration:none;" href="https://sites.google.com/a/bc.edu/vyacheslav-fos/home" style="color:#000000;">Vyacheslav Fos</a>  and <a target="_blank" style="text-decoration:none;" style="color:#000000;"  href="http://www.dmurav.com">Dmitriy Muravyev</a>
 	<li style="list-style-type:none"><i>Journal of Finance</i>, Revise and Resubmit</li> 	
 	<ul style="list-style-type:circle">
 	<li>A data-driven measure of informed trading complements existing theoretical measures and provides new insights about informed trading</li>
