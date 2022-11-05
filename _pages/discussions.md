@@ -14,6 +14,6 @@ permalink: /discussions/
 
 "Aggregate Risk: A Unified Approach on Market Efficiency and Liquidity" by Guo; 3rd SAFE Market Microstructure Conference [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/SAFE_2019_discussion.pdf">discussion slides</a>]
 
-"FX Trading and the Exchange Rate Disconnect" by Evans; NBER SI 2019 International Asset Pricing [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/NBER/SI_IAP_2019_discussion.pdf">discussion slides</a>]
+"FX Trading and the Exchange Rate Disconnect" by Evans; NBER SI 2019 International Asset Pricing [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/NBER_SI_IAP_2019_discussion.pdf">discussion slides</a>]
 
 "Complementarity of Passive and Active Investment on Stock Price Efficiency" by Choi; 2018 NFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/NFA_2018_discussion.pdf">discussion slides</a>]
