@@ -4,7 +4,7 @@ permalink: /discussions/
 ---
 
 
-"Factor and stock-specific disagreement and trading flows" by Grigoris, Heyerdahl-Larsen, and Kantak; 2022 Cboe Conference on Derivatives and Volatility
+"Factor and stock-specific disagreement and trading flows" by Grigoris, Heyerdahl-Larsen, and Kantak; 2022 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2022_discussion.pdf">discussion slides</a>]
 
 "The Overnight Drift" by Boyarchenko, Larsen, and Whelan; 2022 FMA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/FMA_2022_discussion.pdf">discussion slides</a>]
 
