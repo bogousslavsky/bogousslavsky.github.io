@@ -46,6 +46,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a>  [updated 10/2022]</li>  
   with Dmitriy Muravyev
+  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, Revise and Resubmit</li> 	
          <ul style="list-style-type:circle">
         <li>We study closing volumes and prices under the new regime of record-volume at the close</li>
         <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
