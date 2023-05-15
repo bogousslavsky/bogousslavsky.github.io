@@ -38,19 +38,10 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 <ul class="pad" style="list-style-type:none">
 <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 9/2022]</li>  
   with Yashar Barardehi and Dmitriy Muravyev
+  <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li> 
    <ul style="list-style-type:circle">
   <li>Evidence from past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
   </ul>
-</ul>
-
-<ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a>  [updated 10/2022]</li>  
-  with Dmitriy Muravyev
-  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, Revise and Resubmit</li> 	
-         <ul style="list-style-type:circle">
-        <li>We study closing volumes and prices under the new regime of record-volume at the close</li>
-        <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
-        </ul>
 </ul>
 
 
@@ -62,6 +53,16 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 </ul>
 
 ## Publications
+
+<ul class="pad" style="list-style-type:none">
+  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a>  [updated 10/2022]</li>  
+  with Dmitriy Muravyev
+  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, accepted</li> 	
+         <ul style="list-style-type:circle">
+        <li>We study closing volumes and prices under the new regime of record-volume at the close</li>
+        <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
+        </ul>
+</ul>
 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a></li>  
