@@ -25,20 +25,11 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 ## Working Papers
 
-<ul class="pad" style="list-style-type:none">
-  <li><a target="_blank"  style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a> [updated 12/2022]</li>  
-  <!--<ul style="list-style-type:none;padding: 0;margin: 0;" >-->
-  with Vyacheslav Fos and  Dmitriy Muravyev
-	<li style="list-style-type:none"><i>Journal of Finance</i>, Revise and Resubmit</li> 	
-	<ul style="list-style-type:circle">
-	<li>A data-driven measure of informed trading complements existing theoretical measures and provides new insights about informed trading</li>
-	</ul>  
-</ul>
 
 <ul class="pad" style="list-style-type:none">
 <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 2/2023]</li>  
   with Yashar Barardehi and Dmitriy Muravyev
-  <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li> 
+  <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li>
    <ul style="list-style-type:circle">
   <li>Evidence from past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
   </ul>
@@ -55,11 +46,21 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 ## Publications
 
 <ul class="pad" style="list-style-type:none">
+  <li><a target="_blank"  style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a></li>  
+  <!--<ul style="list-style-type:none;padding: 0;margin: 0;" >-->
+  with Vyacheslav Fos and  Dmitriy Muravyev
+	<li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li> 	
+	<ul style="list-style-type:circle">
+	<li>A data-driven measure of informed trading complements existing theoretical measures and provides new insights about informed trading</li>
+	</ul>  
+</ul>
+
+<ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a></li>  
   with Dmitriy Muravyev
-  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, accepted</li> 	
+  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, forthcoming</li> 	
          <ul style="list-style-type:circle">
-        <li>We study closing volumes and prices under the new regime of record-volume at the close</li>
+        <li>Closing auctions appear to match volumes at low cost</li>
         <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
         </ul>
 </ul>
@@ -89,7 +90,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with Pierre Collin-Dufresne and Mehmet Sa&#287;lam
   <li style="list-style-type:none"><i>Journal of Financial Economics</i> 139(3), 922-949, 2021</li>  
 	     <ul style="list-style-type:circle">
-		  <li>This paper tests theories of inventory shocks and market making capital using a natural experiment and contrasts standard liquidity measures to institutional liquidity measures</li>  
+		  <li>We find support for theories of inventory shocks and market making capital using a natural experiment and contrast standard liquidity measures to institutional liquidity measures</li>  
         </ul>  
 </ul>
 
