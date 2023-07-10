@@ -69,7 +69,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a></li>  
   <!--<li>with Pierre Collin-Dufresne </li>-->
   with Pierre Collin-Dufresne
-  <li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li>
+  <li style="list-style-type:none"><i>Journal of Finance</i>, 2023, 78(4): 2189-2232</li>
 	     <ul style="list-style-type:circle">
 		    <li>Motivated by a simple inventory model, high-frequency order imbalance volatility helps explain the dynamics of liquidity and is priced in the cross-section of stock returns</li>
 			<li>Data available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
@@ -78,7 +78,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2869624">The Cross-Section of Intraday and Overnight Returns</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.jfineco.2020.07.020">JFE</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/IP_InternetAppendix.pdf">Internet Appendix</a></li>
-	<li style="list-style-type:none"><i>Journal of Financial Economics,</i> 141(1), 172-194, 2021 </li>
+	<li style="list-style-type:none"><i>Journal of Financial Economics,</i> 2021, 141(1): 172-194</li>
 	     <ul style="list-style-type:circle">
 		  <li>Well-known asset pricing anomalies exhibit strikingly different patterns in intraday average returns, which helps to understand what drives cross-sectional variation in stock returns</li>  
         </ul>  
@@ -88,7 +88,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2613667">Slow-Moving Capital and Execution Costs: Evidence from a Major Trading Glitch</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.jfineco.2020.08.009">JFE</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf">Internet Appendix</a></li>
   with Pierre Collin-Dufresne and Mehmet Sa&#287;lam
-  <li style="list-style-type:none"><i>Journal of Financial Economics</i> 139(3), 922-949, 2021</li>  
+  <li style="list-style-type:none"><i>Journal of Financial Economics</i>, 2021, 139(3): 922-949</li>  
 	     <ul style="list-style-type:circle">
 		  <li>We find support for theories of inventory shocks and market making capital using a natural experiment and contrast standard liquidity measures to institutional liquidity measures</li>  
         </ul>  
@@ -97,7 +97,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">   
 <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2308366">Infrequent Rebalancing, Return Autocorrelation, and Seasonality</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.12436">JF</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/IR_InternetAppendix.pdf">Internet Appendix</a></li>
-<li style="list-style-type:none"><i>Journal of Finance</i> 71(6), 2967-3006, 2016 </li>     
+<li style="list-style-type:none"><i>Journal of Finance</i>, 2016, 71(6): 2967-3006</li>     
         <ul style="list-style-type:circle">
 		  <li>Infrequent rebalancing can explain puzzling return predictability patterns at different frequencies</li>  
         <li><i>NASDAQ OMX - CQA Prize (Runner-up), 2014 EFA Doctoral Tutorial </i></li>
