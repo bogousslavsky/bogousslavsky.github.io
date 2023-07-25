@@ -18,7 +18,7 @@ Reference:
 
 ###  Auction volume and price deviation data
 
-The sample covers common stocks listed on the NYSE and Nasdaq with a price greater than $5 and a market capitalization greater than $100 million at the beginning of a month.
+The sample covers common stocks listed on the NYSE and Nasdaq with a price greater than \$5 and a market capitalization greater than \$100 million at the beginning of a month.
 
 Current data (2010-2018):
 - Variables: share volume between 3:55pm and 4:00pm, share volume executed in the auction, auction price deviation

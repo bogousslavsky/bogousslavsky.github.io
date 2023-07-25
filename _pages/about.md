@@ -62,6 +62,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
          <ul style="list-style-type:circle">
         <li>Closing auctions appear to match volumes at low cost</li>
         <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
+        <li>Data available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
         </ul>
 </ul>
 
