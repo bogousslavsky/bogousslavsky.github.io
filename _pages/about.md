@@ -56,7 +56,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a></li>  | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.finmar.2023.100852">JFM</a>
+  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.finmar.2023.100852">JFM</a></li> 
   with Dmitriy Muravyev
   <li style="list-style-type:none"><i>Journal of Financial Markets</i>, forthcoming</li> 	
          <ul style="list-style-type:circle">
@@ -67,7 +67,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a></li>  | | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.13248">JF</a>
+  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.13248">JF</a></li> 
   <!--<li>with Pierre Collin-Dufresne </li>-->
   with Pierre Collin-Dufresne
   <li style="list-style-type:none"><i>Journal of Finance</i>, 2023, 78(4): 2189-2232</li>
