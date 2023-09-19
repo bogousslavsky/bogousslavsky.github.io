@@ -38,7 +38,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">
   	<li>A Century of Market Reversals: Resurrecting Volatility (draft available upon request)</li>  
-	with Blake LeBaron and Jeffrey Pontiff
+	with Blake LeBaron and Jeffrey Pontiff 
 </ul>
 
 
