@@ -37,6 +37,12 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 
 <ul class="pad" style="list-style-type:none">
+  	<li>A Century of Market Reversals: Resurrecting Volatility (draft available upon request)</li>  
+	with Blake LeBaron and Jeffrey Pontiff
+</ul>
+
+
+<ul class="pad" style="list-style-type:none">
   	<li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2558742">Seasonalities in Anomalies</a></li>  
   	<ul style="list-style-type:circle">
   	<li>Several asset pricing anomalies display strong monthly seasonalities that affect their economic interpretation</li>
