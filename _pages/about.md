@@ -41,6 +41,11 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 	with Blake LeBaron and Jeffrey Pontiff 
 </ul>
 
+<ul class="pad" style="list-style-type:none">
+  	<li>Anatomy of Retail Option Trading</li>  
+	with Dmitriy Muravyev 
+</ul>
+
 
 <ul class="pad" style="list-style-type:none">
   	<li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2558742">Seasonalities in Anomalies</a></li>  
