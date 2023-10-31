@@ -31,7 +31,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with Yashar Barardehi and Dmitriy Muravyev
   <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li>
    <ul style="list-style-type:circle">
-  <li>Evidence from past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
+  <li>Past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
   </ul>
 </ul>
 
@@ -62,7 +62,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with Vyacheslav Fos and  Dmitriy Muravyev
 	<li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li> 	
 	<ul style="list-style-type:circle">
-	<li>A data-driven measure of informed trading complements existing theoretical measures and provides new insights about informed trading</li>
+	<li>We propose a novel, data-driven, measure of informed trading</li>
 	</ul>  
 </ul>
 
@@ -83,7 +83,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with Pierre Collin-Dufresne
   <li style="list-style-type:none"><i>Journal of Finance</i>, 2023, 78(4): 2189-2232</li>
 	     <ul style="list-style-type:circle">
-		    <li>Motivated by a simple inventory model, high-frequency order imbalance volatility helps explain the dynamics of liquidity and is priced in the cross-section of stock returns</li>
+		    <li>Motivated by a simple inventory model, high-frequency order imbalance volatility helps explain the dynamics of liquidity</li>
 			<li>Data available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
         </ul>  
 </ul>
@@ -92,7 +92,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2869624">The Cross-Section of Intraday and Overnight Returns</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.jfineco.2020.07.020">JFE</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/IP_InternetAppendix.pdf">Internet Appendix</a></li>
 	<li style="list-style-type:none"><i>Journal of Financial Economics,</i> 2021, 141(1): 172-194</li>
 	     <ul style="list-style-type:circle">
-		  <li>Well-known asset pricing anomalies exhibit strikingly different patterns in intraday average returns, which helps to understand what drives cross-sectional variation in stock returns</li>  
+		  <li>Patterns in intraday average returns of asset pricing anomalies shed light on what drives cross-sectional variation in stock returns</li>  
         </ul>  
 </ul>
 
@@ -102,7 +102,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
   with Pierre Collin-Dufresne and Mehmet Sa&#287;lam
   <li style="list-style-type:none"><i>Journal of Financial Economics</i>, 2021, 139(3): 922-949</li>  
 	     <ul style="list-style-type:circle">
-		  <li>We find support for theories of inventory shocks and market making capital using a natural experiment and contrast standard liquidity measures to institutional liquidity measures</li>  
+		  <li>A natural experiment supports theories of inventory shocks and market making capital</li>  
         </ul>  
 </ul>
 
