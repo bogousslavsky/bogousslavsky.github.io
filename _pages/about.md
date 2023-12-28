@@ -63,7 +63,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 	<li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li> 	
 	<ul style="list-style-type:circle">
 	<li>We propose a novel, data-driven, measure of informed trading</li>
-  <li>Informed trading measures available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
+  <li>Informed trading measure available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
 	</ul>  
 </ul>
 
