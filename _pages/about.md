@@ -38,12 +38,12 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">
   	<li>A Century of Market Reversals: Resurrecting Volatility (draft available upon request)</li>  
-	with Blake LeBaron and Jeffrey Pontiff 
+	with Blake LeBaron and Jeffrey Pontiff
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  	<li>Anatomy of Retail Option Trading</li>  
-	with Dmitriy Muravyev 
+  	<li>An Anatomy of Retail Option Trading (draft available upon request)</li>  
+	with Dmitriy Muravyev
 </ul>
 
 
@@ -63,13 +63,14 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 	<li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li> 	
 	<ul style="list-style-type:circle">
 	<li>We propose a novel, data-driven, measure of informed trading</li>
+  <li>Informed trading measures available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
 	</ul>  
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.finmar.2023.100852">JFM</a></li> 
+  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3485840">Who Trades at the Close? Implications for Price Discovery and Liquidity</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.finmar.2023.100852">JFM</a></li>
   with Dmitriy Muravyev
-  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, forthcoming</li> 	
+  <li style="list-style-type:none"><i>Journal of Financial Markets</i>, 2023, Lead Article</li> 	
          <ul style="list-style-type:circle">
         <li>Closing auctions appear to match volumes at low cost</li>
         <li>Media coverage: <a target="_blank" style="text-decoration:none" href="https://www.bloomberg.com/news/articles/2019-12-08/noise-for-sale-in-giant-u-s-auctions-used-to-end-stock-sessions">Bloomberg</a></li>
@@ -78,10 +79,10 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.13248">JF</a></li> 
+  <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=3336171">Liquidity, Volume, and Order Imbalance Volatility</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.13248">JF</a></li>
   <!--<li>with Pierre Collin-Dufresne </li>-->
   with Pierre Collin-Dufresne
-  <li style="list-style-type:none"><i>Journal of Finance</i>, 2023, 78(4): 2189-2232</li>
+  <li style="list-style-type:none"><i>Journal of Finance</i>, 2023</li>
 	     <ul style="list-style-type:circle">
 		    <li>Motivated by a simple inventory model, high-frequency order imbalance volatility helps explain the dynamics of liquidity</li>
 			<li>Data available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
@@ -90,7 +91,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2869624">The Cross-Section of Intraday and Overnight Returns</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.jfineco.2020.07.020">JFE</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/IP_InternetAppendix.pdf">Internet Appendix</a></li>
-	<li style="list-style-type:none"><i>Journal of Financial Economics,</i> 2021, 141(1): 172-194</li>
+	<li style="list-style-type:none"><i>Journal of Financial Economics,</i> 2021</li>
 	     <ul style="list-style-type:circle">
 		  <li>Patterns in intraday average returns of asset pricing anomalies shed light on what drives cross-sectional variation in stock returns</li>  
         </ul>  
@@ -100,7 +101,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 <ul class="pad" style="list-style-type:none">
   <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2613667">Slow-Moving Capital and Execution Costs: Evidence from a Major Trading Glitch</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1016/j.jfineco.2020.08.009">JFE</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf">Internet Appendix</a></li>
   with Pierre Collin-Dufresne and Mehmet Sa&#287;lam
-  <li style="list-style-type:none"><i>Journal of Financial Economics</i>, 2021, 139(3): 922-949</li>  
+  <li style="list-style-type:none"><i>Journal of Financial Economics</i>, 2021</li>  
 	     <ul style="list-style-type:circle">
 		  <li>A natural experiment supports theories of inventory shocks and market making capital</li>  
         </ul>  
@@ -109,7 +110,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">   
 <li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2308366">Infrequent Rebalancing, Return Autocorrelation, and Seasonality</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.12436">JF</a>, <a target="_blank" style="text-decoration:none" href="http://bogousslavsky.github.io/files/IR_InternetAppendix.pdf">Internet Appendix</a></li>
-<li style="list-style-type:none"><i>Journal of Finance</i>, 2016, 71(6): 2967-3006</li>     
+<li style="list-style-type:none"><i>Journal of Finance</i>, 2016</li>     
         <ul style="list-style-type:circle">
 		  <li>Infrequent rebalancing can explain puzzling return predictability patterns at different frequencies</li>  
         <li><i>NASDAQ OMX - CQA Prize (Runner-up), 2014 EFA Doctoral Tutorial </i></li>

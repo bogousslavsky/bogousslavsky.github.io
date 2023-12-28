@@ -3,6 +3,17 @@ title: "Data"
 permalink: /data/
 ---
 
+### Informed trading data
+
+Informed trading intensity (ITI) measures are at the stock by day level and are designed to study how informed trading changes in a given stock over time.
+
+Current data (1/1993-7/2021)
+- Link: [Stock-day ITI measures](https://www.dropbox.com/s/lycsxfo0hv98mpm/ITI_measures_Feb2023.zip?dl=0)
+
+Reference:
+- Bogousslavsky V., Muravyev D., and V. Fos. "Informed Trading Intensity." *Journal of Finance*, forthcoming.
+
+
 ### High-frequency order imbalance volatility data
 
 We compute share imbalance as a proportion of shares outstanding over every five-minute interval of the trading day using the Lee and Ready (1991) algorithm. High-frequency order imbalance volatility (HFOIV ) is the standard deviation of the five-minute imbalance, computed over the trading day.
