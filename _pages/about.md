@@ -42,8 +42,9 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  	<li>An Anatomy of Retail Option Trading (draft available upon request)</li>  
+  <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388">An Anatomy of Retail Option Trading</a>  [new 1/2024]</li>    
 	with Dmitriy Muravyev
+
 </ul>
 
 
