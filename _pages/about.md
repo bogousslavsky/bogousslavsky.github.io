@@ -28,7 +28,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 <ul class="pad" style="list-style-type:none">
 <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 2/2023]</li>  
-<li>with Yashar Barardehi and Dmitriy Muravyev</li>  
+with Yashar Barardehi and Dmitriy Muravyev
   <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li>
    <ul style="list-style-type:circle">
   <li>Past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
