@@ -25,7 +25,6 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 
 ## Working Papers
 
-
 <ul class="pad" style="list-style-type:none">
 <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 2/2023]</li>  
 with Yashar Barardehi and Dmitriy Muravyev
