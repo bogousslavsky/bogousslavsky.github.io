@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Bogousslavsky"
-  avatar           : "Bogousslavsky_photo.png"
+  avatar           : "Bogousslavsky_photo2.png"
   bio              : "Assistant Professor of Finance <br> Boston College <br> Carroll School of Management"
-  location         : 
+  location         :
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=iJQDMG4AAAAJ"
   email            : "bogoussl@bc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
