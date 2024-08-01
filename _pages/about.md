@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-2FEM1XM0CN');
 </script>
 
-I am an Assistant Professor of Finance at Boston College. My research interests are in asset pricing and market microstructure.
+I am an Associate Professor of Finance at Boston College. My research interests are in asset pricing and market microstructure.
 
 <a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/Bogousslavsky_CV.pdf">Curriculum Vitae</a>
 
@@ -26,7 +26,7 @@ I am an Assistant Professor of Finance at Boston College. My research interests 
 ## Working Papers
 
 <ul class="pad" style="list-style-type:none">
-<li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 2/2023]</li>  
+<li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069509">What Drives Momentum and Reversal? Evidence from Day and Night Signals</a>  [updated 8/2024]</li>  
 with Yashar Barardehi and Dmitriy Muravyev
   <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li>
    <ul style="list-style-type:circle">
@@ -41,7 +41,7 @@ with Yashar Barardehi and Dmitriy Muravyev
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388">An Anatomy of Retail Option Trading</a>  [new 1/2024]</li>    
+  <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388">An Anatomy of Retail Option Trading</a>  [8/2024]</li>    
 	with Dmitriy Muravyev
 
 </ul>
@@ -57,10 +57,10 @@ with Yashar Barardehi and Dmitriy Muravyev
 ## Publications
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank"  style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a></li>  
+  <li><a target="_blank"  style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865990">Informed Trading Intensity</a> | <a target="_blank" style="text-decoration:none" href="https://doi.org/10.1111/jofi.13320">JF</a></li>
   <!--<ul style="list-style-type:none;padding: 0;margin: 0;" >-->
   with Vyacheslav Fos and  Dmitriy Muravyev
-	<li style="list-style-type:none"><i>Journal of Finance</i>, forthcoming</li> 	
+	<li style="list-style-type:none"><i>Journal of Finance</i>, 2024</li> 	
 	<ul style="list-style-type:circle">
 	<li>We propose a novel, data-driven, measure of informed trading</li>
   <li>Informed trading measure available <a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/data/">here</a></li>
