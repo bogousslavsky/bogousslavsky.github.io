@@ -3,6 +3,8 @@ title: "Discussions"
 permalink: /discussions/
 ---
 
+"Speculation and Liquidity in Stock and Corporate Bond Markets" by Pasquariello and Sandulescu; 2024 EFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/EFA_2024_discussion.pdf">discussion slides</a>]
+
 "ETFs, Anomalies, and Market Efficiency" by Filippou, He, Li, and Zhou; 2023 NFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/NFA_2023_discussion.pdf">discussion slides</a>]
 
 "Factor and stock-specific disagreement and trading flows" by Grigoris, Heyerdahl-Larsen, and Kantak; 2022 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2022_discussion.pdf">discussion slides</a>]
