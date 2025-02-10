@@ -7,11 +7,11 @@ permalink: /data/
 
 Informed trading intensity (ITI) measures are at the stock by day level and are designed to study how informed trading changes in a given stock over time.
 
-Current data (1/1993-7/2021)
+Current data (1/1993-7/2019) [Feb 2025 update: updated data until 2024 coming soon!]
 - Link: [Stock-day ITI measures](https://www.dropbox.com/s/lycsxfo0hv98mpm/ITI_measures_Feb2023.zip?dl=0)
 
 Reference:
-- Bogousslavsky V., Muravyev D., and V. Fos. "Informed Trading Intensity." *Journal of Finance*, forthcoming.
+- Bogousslavsky V., Muravyev D., and V. Fos. "Informed Trading Intensity." *Journal of Finance*, 2024, 79(2): 903–948.
 
 
 ### High-frequency order imbalance volatility data
@@ -36,4 +36,5 @@ Current data (2010-2018):
 - Link: [Auction data](https://www.dropbox.com/s/q6cccdk5vbbqg2a/auction_data.zip?dl=0)
 
 Reference:
-- Bogousslavsky V., and D. Muravyev. "Who Trades at the Close? Implications for Price Discovery and Liquidity." *Journal of Financial Markets*, forthcoming.
+- Bogousslavsky V., and D. Muravyev. "Who Trades at the Close? Implications for Price Discovery and Liquidity." *Journal of Financial Markets*, 2023, 66: 100852.
+
