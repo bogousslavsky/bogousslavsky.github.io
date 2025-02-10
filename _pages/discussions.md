@@ -3,6 +3,10 @@ title: "Discussions"
 permalink: /discussions/
 ---
 
+"The Derivative Payoff Bias" by Baltussen, Terstegge, and Whelan; 2025 AFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/AFA_2024_discussion.pdf">discussion slides</a>]
+
+"Risky Intraday Order Flow and Equity Option Liquidity" by Doshi, Pederzoli, and Sert; 2024 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2024_discussion.pdf">discussion slides</a>]
+
 "Speculation and Liquidity in Stock and Corporate Bond Markets" by Pasquariello and Sandulescu; 2024 EFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/EFA_2024_discussion.pdf">discussion slides</a>]
 
 "ETFs, Anomalies, and Market Efficiency" by Filippou, He, Li, and Zhou; 2023 NFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/NFA_2023_discussion.pdf">discussion slides</a>]

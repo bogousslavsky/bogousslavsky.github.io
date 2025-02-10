@@ -41,8 +41,11 @@ with Yashar Barardehi and Dmitriy Muravyev
 </ul>
 
 <ul class="pad" style="list-style-type:none">
-  <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388">An Anatomy of Retail Option Trading</a>  [8/2024]</li>    
+  <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388">An Anatomy of Retail Option Trading</a>  [2/2025]</li>    
 	with Dmitriy Muravyev
+  <ul style="list-style-type:circle">
+  <li>We offer the first trader-level analysis of modern retail option trading by introducing a novel data set of $15 billion in retail stock and option trades</li>
+  </ul>
 
 </ul>
 
