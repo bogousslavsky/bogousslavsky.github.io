@@ -28,18 +28,20 @@ My research interests are in asset pricing and market microstructure.
 ## Working Papers
 
 <ul class="pad" style="list-style-type:none">
-<li><a target="_blank" style="text-decoration:none" href="https://conference.nber.org/conf_papers/f218927.pdf">Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage</a>  [new paper 7/2025]</li>  
+<li><a target="_blank" style="text-decoration:none" href="https://conference.nber.org/conf_papers/f218927.pdf">Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage</a>  [7/2025]</li>  
 with Yashar Barardehi and Dmitriy Muravyev
-  <!-- <li style="list-style-type:none"><i>Review of Financial Studies</i>, Revise and Resubmit</li> -->
-   <!-- <ul style="list-style-type:circle">
-  <li>Past day and night return signals suggest that underreaction to information conveyed through trading contributes to momentum profits</li>
-  </ul> -->
+  <ul style="list-style-type:circle">
+  <li>Limit orders play an important role for retail trading costs in stocks and options</li>
+  </ul>
 </ul>
 
 
 <ul class="pad" style="list-style-type:none">
-  	<li>A Century of Market Reversals: Resurrecting Volatility (draft available upon request)</li>  
+    <li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5410662">A Century of Market Reversals: Resurrecting Volatility</a>  [8/2025]</li> 
 	with Blake LeBaron and Jeffrey Pontiff
+  <ul style="list-style-type:circle">
+  <li>We resurrect the role of volatility (relative to volume) for market return autocorrelation</li>
+  </ul>
 </ul>
 
 <ul class="pad" style="list-style-type:none">
