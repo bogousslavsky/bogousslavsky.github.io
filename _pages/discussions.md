@@ -3,6 +3,8 @@ title: "Discussions"
 permalink: /discussions/
 ---
 
+"Option Returns: A Tale of Two Expiration Rollover Days" by Garcia-Ares and Muravyev; 2025 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2025_discussion.pdf">discussion slides</a>]
+
 "The Derivative Payoff Bias" by Baltussen, Terstegge, and Whelan; 2025 AFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/AFA_2025_discussion.pdf">discussion slides</a>]
 
 "Risky Intraday Order Flow and Equity Option Liquidity" by Doshi, Pederzoli, and Sert; 2024 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2024_discussion.pdf">discussion slides</a>]

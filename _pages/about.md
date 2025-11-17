@@ -53,6 +53,14 @@ with Yashar Barardehi and Dmitriy Muravyev
 
 </ul>
 
+<ul class="pad" style="list-style-type:none">
+  <li><a target="_blank" style="text-decoration:none" href="https://bogousslavsky.github.io/">When Retail Meets Informed: How News Days Drive Retail Losses</a>  </li>    
+	with Azi Ben-Rephael and Dmitriy Muravyev
+  <!--<ul style="list-style-type:circle">
+  <li>We offer the first trader-level analysis of modern retail option trading by introducing a novel data set of $15 billion in retail stock and option trades</li>
+  </ul>-->
+</ul>
+
 
 <ul class="pad" style="list-style-type:none">
   	<li><a target="_blank" style="text-decoration:none" href="https://ssrn.com/abstract=2558742">Seasonalities in Anomalies</a></li>  
