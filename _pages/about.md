@@ -28,7 +28,7 @@ My research interests are in asset pricing and market microstructure.
 ## Working Papers
 
 <ul class="pad" style="list-style-type:none">
-<li><a target="_blank" style="text-decoration:none" href="https://conference.nber.org/conf_papers/f218927.pdf">Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage</a>  [7/2025]</li>  
+<li><a target="_blank" style="text-decoration:none" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5979974">Unpacking Retail Trading Costs: the Role of Options Trading and Limit Order Usage</a>  [12/2025]</li>  
 with Yashar Barardehi and Dmitriy Muravyev
   <ul style="list-style-type:circle">
   <li>Limit orders play an important role for retail trading costs in stocks and options</li>
