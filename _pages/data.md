@@ -7,8 +7,10 @@ permalink: /data/
 
 Informed trading intensity (ITI) measures are at the stock by day level and are designed to study how informed trading changes in a given stock over time.
 
-Current data (1/1993-7/2019) [Feb 2025 update: updated data until 2024 coming soon!]
-- Link: [Stock-day ITI measures](https://www.dropbox.com/s/lycsxfo0hv98mpm/ITI_measures_Feb2023.zip?dl=0)
+Extended data (1/1993-12/2024) [updated 1/2026]
+- This update extends the original ITI measures from Bogousslavsky, Fos, and Muravyev (2024) through December 2024 and fills gaps in the original 1993–2019 sample.
+- The file also contains the original measures (1993-2019) for replication of published results.
+- Link: [Stock-day ITI measures](https://www.dropbox.com/scl/fi/hypqrf51w15v4jgrq4srk/ITIs_extended_1993_2024.zip?rlkey=qqxm5doaiqr5grwrfwrwayulu&dl=0)
 
 Reference:
 - Bogousslavsky V., Muravyev D., and V. Fos. "Informed Trading Intensity." *Journal of Finance*, 2024, 79(2): 903–948.
