@@ -3,6 +3,10 @@ title: "Discussions"
 permalink: /discussions/
 ---
 
+``Detecting Informed Trade by Corporate Insiders'' by Blonien, Crane, and Crotty; 2026 MFA Annual Meeting
+
+``Nocturnal Trading" by Eaton, Shkilko, and Werner; 2026 ITAM Finance Conference [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/ITAM_2026_discussion.pdf">discussion slides</a>]
+
 "Option Returns: A Tale of Two Expiration Rollover Days" by Garcia-Ares and Muravyev; 2025 Cboe Conference on Derivatives and Volatility [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/CBOE_2025_discussion.pdf">discussion slides</a>]
 
 "The Derivative Payoff Bias" by Baltussen, Terstegge, and Whelan; 2025 AFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/AFA_2025_discussion.pdf">discussion slides</a>]
