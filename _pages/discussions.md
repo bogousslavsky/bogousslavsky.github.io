@@ -5,6 +5,8 @@ permalink: /discussions/
 
 "Exchange-Traded Liquidity" by Boyarchenko, Larsen, Venter, and Whelan; 2026 FIRS Conference
 
+"Underlying Valuation Uncertainty, Strategic ETF Creation and Pricing Efficiency" by Huang, Wermers, Xue, and Zhou; 2026 FIRS Conference
+
 "Detecting Informed Trade by Corporate Insiders" by Blonien, Crane, and Crotty; 2026 MFA Annual Meeting [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/MFA_2026_discussion.pdf">discussion slides</a>]
 
 "Nocturnal Trading" by Eaton, Shkilko, and Werner; 2026 ITAM Finance Conference [<a target="_blank"  style="text-decoration:none" href="http://bogousslavsky.github.io/files/ITAM_2026_discussion.pdf">discussion slides</a>]
